@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Sayantan
 - 🧑‍💻 Enthusiastic Software Engineer 💻
-- 🔭Working in the [Wipro](https://www.wipro.com/)👨‍💼
+- 🔭Working in the [Amdocs](https://www.amdocs.com/)👨‍💼
 - 👀 I’m interested in playing Basketball 🏀
 - 🌱 I’m currently learning Android 
 - 💬 Ask me about Java, Spring, Cloud and related technologies
